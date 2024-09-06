@@ -60,7 +60,7 @@ router.get('/', async (req, res) => {
 	
 				   let WASI_MD_TEXT = `
 ┏━━━━━━━━━━━━━━
-┃Miow💙 SESSION IS 
+┃ANT-MAN-BOT-V2 SESSION IS 
 ┃SUCCESSFULLY
 ┃CONNECTED ✅🔥
 ┗━━━━━━━━━━━━━━━
@@ -70,7 +70,7 @@ router.get('/', async (req, res) => {
 ❷ || https://chat.whatsapp.com/KEO1buOXfS6IalUhEu8scq
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 Please Follow My Support Channel
-Wanna talk to me?👉 https://t.me/SUBZERO-V8_Tech 👈
+Wanna talk to me?👉 👈
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 ©*Mɾ Nƚαɳԃσ Oϝƈ_TECHl*
 ©*bible verse of the year*
