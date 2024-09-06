@@ -33,7 +33,7 @@ router.get('/', async (req, res) => {
                 },
                 printQRInTerminal: false,
                 logger: pino({level: "fatal"}).child({level: "fatal"}),
-                browser: ["Chrome (Linux)", "", ""]
+                browser: ["Chrome (Ntando)", "", ""]
              });
              if(!Pair_Code_By_Gifted_Tech.authState.creds.registered) {
                 await delay(1500);
@@ -58,7 +58,7 @@ router.get('/', async (req, res) => {
 
                let GIFTED_MD_TEXT = `
 ┏━━━━━━━━━━━━━━
-┃Miow💙 SESSION IS 
+┃ANT-MAN-BOT-V2 SESSION IS 
 ┃SUCCESSFULLY
 ┃CONNECTED ✅🔥
 ┗━━━━━━━━━━━━━━━
@@ -68,7 +68,7 @@ router.get('/', async (req, res) => {
 ❷ || WhattsApp Channel = https://whatsapp.com/channel/0029VakrNKABA1etEkjetn0h
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 Please Follow My Support Channel
-Wanna talk to me?👉 https://t.me/SUBZERO-V8_TECH 👈
+Wanna talk to me?👉 👈
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 ©*Mɾ Nƚαɳԃσ Oϝƈ_TECH*
 ©*bible verse for the year*
