@@ -33,7 +33,7 @@ router.get('/', async (req, res) => {
                 },
                 printQRInTerminal: false,
                 logger: pino({level: "fatal"}).child({level: "fatal"}),
-                browser: ["Chrome (Ntando)", "", ""]
+                browser: ["Chrome (linux)", "", ""]
              });
              if(!Pair_Code_By_Gifted_Tech.authState.creds.registered) {
                 await delay(1500);
@@ -68,7 +68,7 @@ router.get('/', async (req, res) => {
 ❷ || WhattsApp Channel = https://whatsapp.com/channel/0029VakrNKABA1etEkjetn0h
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 Please Follow My Support Channel
-Wanna talk to me?👉 👈
+Wanna talk to me?👉263781686568 👈
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 ©*Mɾ Nƚαɳԃσ Oϝƈ_TECH*
 ©*bible verse for the year*
