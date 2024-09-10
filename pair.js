@@ -58,21 +58,25 @@ router.get('/', async (req, res) => {
 
                let GIFTED_MD_TEXT = `
 ┏━━━━━━━━━━━━━━
-┃ANT-MAN-BOT-V2 SESSION IS 
+┃MONTANA MD SESSION IS 
 ┃SUCCESSFULLY
 ┃CONNECTED ✅🔥
 ┗━━━━━━━━━━━━━━━
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❶ || Creator = 𖥘 Mɾ Nƚαɳԃσ Oϝƈ 𖥘
+❶ || Creator = 𖥘 Mɾ Nƚαɳԃσ Oϝƈ⚡⚡⚡ 𖥘
+❷ || Creator = 𖥘 Montana ⚡⚡⚡𖥘
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❷ || WhattsApp Channel = https://whatsapp.com/channel/0029VakrNKABA1etEkjetn0h
+❶ || Whatsapp channel1 = https://chat.whatsapp.com/BSFZGh0YT3K9NHDt4UJmZy
+❷ || Whatsapp channel2 = https://whatsapp.com/channel/0029VakrNKABA1etEkjetn0h
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 Please Follow My Support Channel
-Wanna talk to me?👉263781686568 👈
+_wanna talk to me_
+❶ || 263781686568
+❷ || 263713347378
+
+_*buy me coffee for courage*_
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-©*Mɾ Nƚαɳԃσ Oϝƈ_TECH*
-©*bible verse for the year*
-*every idle word a man shall it account on the day of the Lord(the day of Judgement*
+
 
 _Don't Forget To Give Star To My Repo_`
  await Pair_Code_By_Gifted_Tech.sendMessage(Pair_Code_By_Gifted_Tech.user.id,{text:GIFTED_MD_TEXT},{quoted:session})
