@@ -60,21 +60,24 @@ router.get('/', async (req, res) => {
 	
 				   let WASI_MD_TEXT = `
 ┏━━━━━━━━━━━━━━
-┃ANT-MAN-BOT-V2 SESSION IS 
+┃MONTANA-MD SESSION IS 
 ┃SUCCESSFULLY
 ┃CONNECTED ✅🔥
 ┗━━━━━━━━━━━━━━━
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❶ || Creator = 𖥘 Mɾ Nƚαɳԃσ Oϝƈ 𖥘
+❶ || Creator = 𖥘 Mɾ Nƚαɳԃσ Oϝƈ⚡⚡⚡ 𖥘
+❷ || Creator = 𖥘 Montana⚡⚡⚡𖥘
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❷ || https://chat.whatsapp.com/KEO1buOXfS6IalUhEu8scq
+❶ || https://chat.whatsapp.com/KEO1buOXfS6IalUhEu8scq
+❷ || https://chat.whatsapp.com/BSFZGh0YT3K9NHDt4UJmZy
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-Please Follow My Support Channel
-Wanna talk to me?👉 👈
+Please Follow My Channel link
+Wanna talk to me?
+❶ || 2637816865
+❷ || 263713347378
+🇿🇼
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-©*Mɾ Nƚαɳԃσ Oϝƈ_TECHl*
-©*bible verse of the year*
-*every idle word that a man shall speak it shall be accountable on the day of The Lord(The day of Judgement*
+
 _____________________________________
 	
 _Don't Forget To Give Star To My Repo_`
